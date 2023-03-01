@@ -1,7 +1,7 @@
 /* hero section */
 
 .hero-section {
-    background-image: url(../images/hero-bg-img.jpg);
+    background-image: url(./images/hero-bg-img.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -12,7 +12,7 @@
   
   @media screen and (min-width: 768px) {
     .nth-100 {
-      background-image: url(../images/rode-nth100-lifestyle-insitu-female-looking-down-grey-1920x700-rgb.jpg);
+      background-image: url(./images/rode-nth100-lifestyle-insitu-female-looking-down-grey-1920x700-rgb.jpg);
       background-position: center;
       background-repeat: no-repeat;
       background-size: cover;
@@ -22,7 +22,7 @@
   /* nth-usb section */
   @media screen and (min-width: 768px) {
     .nth-usb {
-      background-image: url(../images/nth-usb-bg.jpg);
+      background-image: url(./images/nth-usb-bg.jpg);
       background-position: center;
       background-repeat: no-repeat;
       background-size: cover;
@@ -33,7 +33,7 @@
   
   @media screen and (min-width: 768px) {
     .pod-mic {
-      background-image: url(../images/pod-mic-bg.jpg);
+      background-image: url(./images/pod-mic-bg.jpg);
       background-position: center;
       background-repeat: no-repeat;
       background-size: cover;
@@ -44,7 +44,7 @@
   
   @media screen and (min-width: 768px) {
     .wireless-go-II {
-      background-image: url(../images/wireless-go-bg.jpg);
+      background-image: url(./images/wireless-go-bg.jpg);
       background-position: center;
       background-repeat: no-repeat;
       background-size: cover;
@@ -54,7 +54,7 @@
   /* nt-usb-mini section */
   @media screen and (min-width: 768px) {
     .nt-usb-mini {
-      background-image: url(../images/nt-usb-mini-bg.jpg);
+      background-image: url(./images/nt-usb-mini-bg.jpg);
       background-position: center;
       background-repeat: no-repeat;
       background-size: cover;
@@ -64,19 +64,19 @@
   /* Explore section */
   
   .explore-01 {
-    background-image: url(../images/microphones.png);
+    background-image: url(./images/microphones.png);
   }
   
   .explore-02 {
-    background-image: url(../images/interfaces-and-mixers.png);
+    background-image: url(./images/interfaces-and-mixers.png);
   }
   
   .explore-03 {
-    background-image: url(../images/software.png);
+    background-image: url(./images/software.png);
   }
   
   .explore-04 {
-    background-image: url(../images/accessories.png);
+    background-image: url(./images/accessories.png);
   }
   
   .explore-01,
@@ -94,7 +94,7 @@
         rgba(119, 119, 119, 0.35),
         rgba(119, 119, 119, 0.35)
       ),
-      url(../images/microphones.png);
+      url(./images/microphones.png);
   }
   .explore-02:hover {
     background-image: linear-gradient(
@@ -102,7 +102,7 @@
         rgba(119, 119, 119, 0.35),
         rgba(119, 119, 119, 0.35)
       ),
-      url(../images/interfaces-and-mixers.png);
+      url(./images/interfaces-and-mixers.png);
   }
   .explore-03:hover {
     background-image: linear-gradient(
@@ -118,6 +118,6 @@
         rgba(119, 119, 119, 0.35),
         rgba(119, 119, 119, 0.35)
       ),
-      url(../images/accessories.png);
+      url(./images/accessories.png);
   }
   
